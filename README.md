@@ -26,7 +26,8 @@ The dashboard provides a multi-perspective analysis on:
 
 | Home                                  | Patient                                     | Hospital                                      | Finance                                     |
 | ------------------------------------- | ------------------------------------------- | --------------------------------------------- | ------------------------------------------- |
-| ![Home](./assets/Screenshot_Home.png) | ![Patient](./assets/Screenshot_Patient.png) | ![Hospital](./assets/Screenshot_Hospital.png) | ![Finance](./assets/Screenshot_Finance.png) |
+| ![Home](![Image](https://github.com/user-attachments/assets/4ec6abd8-97e9-42df-9cff-b642f7a2082a)
+) | ![Patient](./assets/Screenshot_Patient.png) | ![Hospital](./assets/Screenshot_Hospital.png) | ![Finance](./assets/Screenshot_Finance.png) |
 
 > *Note: Replace image paths with actual image filenames if hosted online or locally in `/assets`.*
 
