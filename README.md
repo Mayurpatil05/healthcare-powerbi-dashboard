@@ -33,6 +33,7 @@ Patient
  ![Image](https://github.com/user-attachments/assets/1b794ecd-9d42-44ac-90de-52bc9fbdd90f)
 
 Hospital      
+
  ![Image](https://github.com/user-attachments/assets/7425f651-5778-4c90-af9b-d9e3c321c6fd)
 
 
